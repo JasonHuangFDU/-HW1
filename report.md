@@ -274,6 +274,10 @@ $$
 
 ## 8. 结论
 
+Github repo：https://github.com/JasonHuangFDU/-HW1
+Model weights: [Google Drive Link](https://drive.google.com/file/d/1t2OyzLuoldGqTJvgcnSyAmPSdxsbV_Aa/view?usp=sharing)
+
+
 本项目完成了以下内容：
 
 1. 使用纯 `NumPy` 实现了带自动微分的 MLP 分类器

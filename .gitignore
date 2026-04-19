@@ -1,5 +1,4 @@
 EuroSAT_RGB/
 __pycache__/
 *.pyc
-experiments/best_model.npz
 search_experiments/
