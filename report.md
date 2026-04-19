@@ -275,7 +275,7 @@ $$
 ## 8. 结论
 
 Github repo：https://github.com/JasonHuangFDU/-HW1
-Model weights: [Google Drive Link](https://drive.google.com/file/d/1t2OyzLuoldGqTJvgcnSyAmPSdxsbV_Aa/view?usp=sharing)
+Model weights: https://github.com/JasonHuangFDU/-HW1/blob/main/experiments/final_best_model/best_model.npz
 
 
 本项目完成了以下内容：
