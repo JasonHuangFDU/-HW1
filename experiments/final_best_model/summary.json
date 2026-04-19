@@ -1,0 +1,36 @@
+{
+  "run_dir": "experiments/final_best_model",
+  "config": {
+    "data_dir": "EuroSAT_RGB",
+    "output_dir": "experiments",
+    "run_name": "final_best_model",
+    "seed": 42,
+    "train_ratio": 0.7,
+    "val_ratio": 0.15,
+    "batch_size": 64,
+    "epochs": 40,
+    "lr": 0.0125,
+    "hidden_dim": 512,
+    "activation": "relu",
+    "weight_decay": 0.0005,
+    "lr_decay": 0.5,
+    "decay_every": 5,
+    "min_lr": 1e-05,
+    "max_grad_norm": 5.0,
+    "show_progress": true,
+    "evaluate_on_test": true
+  },
+  "num_classes": 10,
+  "image_shape": [
+    64,
+    64,
+    3
+  ],
+  "split_sizes": {
+    "train": 18900,
+    "val": 4050,
+    "test": 4050
+  },
+  "best_val_accuracy": 0.6560493827160494,
+  "final_test_accuracy": 0.662716049382716
+}
